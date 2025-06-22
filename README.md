@@ -1,4 +1,4 @@
 # gnome-config
 ```
-dconf load /org/gnome/shell/extensions/ < extensions-backup.ini
+dconf load /org/gnome/ < gnome-backup.ini
 ```
